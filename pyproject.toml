@@ -9,4 +9,5 @@ dependencies = [
     "flask-cors>=6.0.5",
     "python-dotenv>=1.2.2",
     "sqlalchemy>=2.0.51",
+    "typer>=0.26.8",
 ]
